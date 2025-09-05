@@ -1,4 +1,4 @@
-# 🔥 Ethanol-Water Distillation Heat Transfer Model
+Thermocouple Radiation Error & Heat Transfer Analysis (MATLAB)
 
 This MATLAB-based project models the heat and mass transfer during the distillation of an ethanol-water mixture. It simulates how liquid and vapour concentrations change over time and evaluates the effectiveness of the distillation process. The model is built to simulate and validate theoretical predictions in a lab environment, using data collected from experimental runs.
 
