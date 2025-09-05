@@ -55,4 +55,4 @@ The model provides real-time visualisation of:
 These outputs are compared with physical lab results.
 
 <img src="Screenshot 2025-09-05 104231.png" height="60%" width="60%" />
-<img src="Screenshot 2025-09-05 104222.png" height="60%" width="60%" />
+
