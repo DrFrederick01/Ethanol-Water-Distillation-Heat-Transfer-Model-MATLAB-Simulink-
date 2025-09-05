@@ -39,7 +39,7 @@ The setup consisted of a distillation column heated by a reboiler, with vapour c
 - **Equipment**: Reboiler, thermocouples, condenser, collection flasks  
 - **Key Data Points**: Initial and final ethanol concentrations, distillate collected, heat applied, time elapsed  
 
-**(Insert image of the lab-scale distillation setup)**
+<img src="Screenshot 2025-09-05 104749.png" height="30%" width="30%" />
 
 ---
 
@@ -54,5 +54,5 @@ The model provides real-time visualisation of:
 
 These outputs are compared with physical lab results.
 
-<img src="Screenshot 2025-09-05 104231.png" height="30%" width="30%" />
-<img src="Screenshot 2025-09-05 104222.png" height="30%" width="30%" />
+<img src="Screenshot 2025-09-05 104231.png" height="60%" width="60%" />
+<img src="Screenshot 2025-09-05 104222.png" height="60%" width="60%" />
